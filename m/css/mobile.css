@@ -1,0 +1,40 @@
+header, footer { display: block; }
+ .ui-li-icon {
+   top:  9px;
+}
+
+.kaidence header, .kaidence footer { background: #097984; }
+
+.ui-li-heading { font-size: 12px; }
+
+.tutorial_image object, .tutorial_image embed { max-width: 250px; }
+
+.kaidence .ui-title { margin: 0.6em 20px 0.8em;Ê}
+
+.logo {
+	text-align: center;
+	padding: 15px 0;
+	background: url(../img/grass.png) 0 bottom repeat-x;
+}
+
+.kaidence .ui-btn-up-e, .kaidence .ui-li-count, .kaidence .ui-btn-corner-all {
+    background: none repeat scroll 0 0 #097984;
+    border: 1px solid #097984 !important;
+    color: #FFFFFF !important;
+    font-weight: normal !important;
+}
+html body.kaidence .myTheme {
+    background: none repeat scroll 0 0 #F4F4F4;
+    border: 1px solid #cccccc !important;
+    color: #000000 !important;
+    font-weight: normal !important;
+}
+
+
+.articleContent h1 { font-size:21px; }
+.articleContent a.readMore { color:#005aa2; }
+
+
+.ui-body-c {
+	background: url(../img/bg.jpg) repeat;
+}
